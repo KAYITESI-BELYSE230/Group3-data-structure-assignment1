@@ -1,0 +1,13 @@
+# Group3-data-structure-assignment1
+
+GROUP MEMBERS
+1.KAYITESI Belyse       223019996
+2.IKIREZI Denyse        223015956
+3.MBABAZI Henriette     223005178
+4.MPUMURE Esperance     223013760
+5.MUCYO Dieudonne       223009625
+6.MUGISHA Yves          222008525
+7.MUGISHA Fred          223003078
+8.MUHAYIMPUNDU Charlene 223003942
+9.MUJAWIMANA Claudine   223011219
+10.MUSONI Rodrigue      223009869
